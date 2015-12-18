@@ -1,0 +1,6 @@
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\bin\Debug\Infinity_Dungeon.exe.config
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\bin\Debug\Infinity_Dungeon.exe
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\bin\Debug\Infinity_Dungeon.pdb
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\obj\Debug\Infinity_Dungeon.csprojResolveAssemblyReference.cache
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\obj\Debug\Infinity_Dungeon.exe
+C:\Users\cptja_000\Documents\GitHub\Infinity_Dungeon\Infinity_Dungeon\Infinity_Dungeon\obj\Debug\Infinity_Dungeon.pdb
